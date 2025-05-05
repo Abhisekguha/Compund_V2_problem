@@ -68,7 +68,7 @@ The credit score is calculated based on 10 key components:
 9. **Borrow Activity**: Engagement with borrowing features
 10. **Healthy Usage**: Balanced usage of protocol functions
 
-See the [Methodology Document](methodology-document.md) for complete details on the scoring approach.
+See the [Methodology Document](methodology.md) for complete details on the scoring approach.
 
 ## Wallet Analysis
 
