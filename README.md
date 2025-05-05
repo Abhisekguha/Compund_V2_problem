@@ -27,9 +27,11 @@ pip install -r requirements.txt
 
 ## Data Preparation
 
-1. Download the Compound V2 dataset from Google Drive (link in the project description)
+1. Download the Compound V2 dataset from Google Drive (link: https://drive.google.com/drive/folders/1kCrMk30zlf8r1U4frgW9ecpYc1KhMSTE?usp=drive_link)
 2. Select the 3 largest files from the dataset
 3. Place the files in the `data/compound_v2` directory
+4. I have used compoundV2_transactions_ethereum_chunk_17 , compoundV2_transactions_ethereum_chunk_18, compoundV2_transactions_ethereum_chunk_19 (JSON)
+files 
 
 ## Usage
 
